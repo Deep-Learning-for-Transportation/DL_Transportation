@@ -1,4 +1,13 @@
 # DL_Transportation
-- Type some Markdown on the left
-- See HTML in the right
-- ✨Magic ✨
+
+### Book Review
+With advances in machine learning technologies and their deployment in intelligent trans-portation systems (ITS), machine learning has been widely studied and applied to solveemerging transportation problems in recent years. This chapter presents an overviewof the advance of machine learning and deep learning for transportation research andapplications. A general background of motivation to bring emerging machine learningtechnologies into the transportation field is provided. Additionally, a review of the re-lated methodologies and applications is given as an introduction for understanding thedevelopment history of machine learning and deep learning in the transportation field. An overview of the chapters in this book is described as supplying guidance for thereaders. The structure and connection between different chapters are also illustrated ina roadmap to help the readers have a better understanding of the framAework of thisbook.
+
+### About the Book
+Understanding data-driven transportation science is essential for addressing new chal-lenges in modern intelligent transportation systems and smart cities. This book providesfundamental and state-of-the-art machine learning methodologies, technologies, and ap-plications for solving critical emerging transportation problems. Representative machinelearning topics, including classical regression and classification, clustering, convolutionalneural network, graph neural network, sequence modeling, probabilistic models, rein-forcement learning, generative models, and meta/transfer learning, are introduced inthis book.The book explores the fundamental principle of how to analyze transportation prob-lems from machine learning perspectives. Readers will learn how to develop and applydifferent types of machine learning models to transportation related problems. Exampleapplications include transportation data generations, traffic sensing, transportation moderecognition, transportation system management and control, traffic flow prediction, andtraffic safety analysis.
+
+### Features
+
+- Introduces fundamental machine learning theories and methodologies
+- Presents representative state-of-the-art machine learning methodologies and theirintegrations with transportation domain knowledge.
+- Includes case studies or examples in each chapter that illustrate the application ofmethodologies and techniques for solving transportation problems.
